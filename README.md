@@ -5,5 +5,5 @@
   4. In the repo directory, run:
        1. `python -m venv <your_environment_name>`
        2. `.\<your_environment_name>\Scripts\activate`
-       3. `pip install -r requirements.txt`\
+       3. `pip install -r requirements.txt`
   5. Run this jupyter notebook
